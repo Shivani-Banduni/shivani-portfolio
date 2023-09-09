@@ -44,7 +44,7 @@ const App = () => {
           <Container className="container-box rounded">
             <Fade duration={500}>
             <hr />
-            {/* <Experience /> */}
+            <Experience />
           </Fade>
           </Container>
        
