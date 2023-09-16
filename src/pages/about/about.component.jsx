@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col'
 import Image from 'react-bootstrap/Image'
 import Profile from '../../assets/img/profile/profile.webp'
 import './about.style.css'
-import pic from '../../assets/img/profile/pic.jpg'
+import pic from '../../assets/img/profile/pic.jpeg'
 import Button from 'react-bootstrap/Button'
 const About = () => {
   return (
@@ -38,14 +38,14 @@ const About = () => {
                   </div>
                   <div>
                     <a >
-                      <Button href="https://drive.google.com/file/d/1BsY1litaZtya3axq67vRAoyEv5GgMDfc/view?usp=sharing" target="_blank" className="m-2" variant="outline-success">
+                      <Button href="https://drive.google.com/file/d/1ZBYYrNHTEMZjpEC0Fw1iSIV2OAxVsr9h/view?usp=sharing" target="_blank" className="m-2" variant="outline-success">
                         My Resume
                       </Button>
                     </a>
                   </div>
                   <div>
                    <a >
-                      <Button href="https://github.com/009shivani" target="_blank" className="m-2" variant="outline-dark">
+                      <Button href="https://github.com/Shivani-Banduni" target="_blank" className="m-2" variant="outline-dark">
                         GitHub
                       </Button>
                     </a>

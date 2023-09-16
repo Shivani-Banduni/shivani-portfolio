@@ -3,3 +3,10 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.contact-info {
+  background-color: rgba(255, 255, 255, 0.8); /* Adjust the background color and opacity as needed */
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
